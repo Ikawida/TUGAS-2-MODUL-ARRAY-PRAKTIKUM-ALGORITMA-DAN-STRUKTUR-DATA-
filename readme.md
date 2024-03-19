@@ -532,6 +532,18 @@ Berikut adalah penjelasan setiap bagian dari kode program yang digunakan:
 
 10. *Return 0*: Fungsi main() mengembalikan nilai 0 sebagai tanda bahwa program berakhir dengan sukses. Hal ini menandakan bahwa tidak ada kesalahan yang terjadi selama eksekusi program.
 
+## Kesimpulan
+
+Array adalah suatu struktur yang terdiri dari sejumlah elemen yang memiliki tipe data yang sama. Elemen-elemen array tersusun secara sekuensial dalam memori komputer. Semua elemem array bertipe sama. Array cocok untuk organisasi kumpulan data homogen yang ukuran atau jumlah elemen maksimumnya telah diketahui dari awal. Homogen adalah bahwa setiap elemen dari sebuah array tertentu haruslah mempunyai tipe data yang sama. Array memiliki beberapa jenis yaitu:
+-  array 1 dimensi
+Yaitu kumpulan elemen-elemen identik yang tersusun dalam satu baris.
+-  array 2 dimensi 
+Digambarkan sebagai sebuah matrik dan merupakan perluasan dari sebuah array satu dimensi.
+- array multidimensi
+Merupakan array yang mempunyai ukuran lebih dari dua.  
+Setiap elemen dalam array dapat diakses menggunakan indeks numerik. Indeks dimulai dari 0 (nol) untuk elemen pertama, dan berlanjut hingga n-1, di mana n adalah ukuran array. Dengan indeks ini, kita dapat dengan mudah mengakses atau memanipulasi nilai dalam array.
+Array digunakan dalam berbagai konteks pemrograman, termasuk pemrosesan data, pengaturan data, grafika komputer, dan banyak lagi. Mereka adalah alat yang sangat fleksibel dan sering kali menjadi dasar untuk struktur data yang lebih kompleks. Array juga sering digunakan dalam implementasi algoritma untuk memfasilitasi penyimpanan dan manipulasi data. Misalnya, dalam algoritma pencarian atau pengurutan, array digunakan untuk menyimpan kumpulan data yang akan diproses.
+
 ## Daftar Pustaka
 
 [1] Firliana Rina dan Patmi Kasih, "Algoritma dan Pemrograman C++," Adjie Media Nusantara, Nganjuk, 2020, pp. 1-82.
