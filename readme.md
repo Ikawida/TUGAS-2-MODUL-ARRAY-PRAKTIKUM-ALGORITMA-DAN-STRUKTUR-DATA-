@@ -42,6 +42,8 @@ int main() {
 
 #### Output 
 
+<img width="960" alt="Screenshot 2024-03-19 090311" src="https://github.com/Ikawida/TUGAS-2-MODUL-ARRAY-PRAKTIKUM-ALGORITMA-DAN-STRUKTUR-DATA-/assets/157208863/f4c18fd9-86d0-4879-a3df-b4d93060d5d7">
+
 ### 2. Array 2 Dimensi
 
 Array dua dimensi yang sering digambarkan sebagai sebuah matriks merupakan perluasan dari sebuah array satu dimensi. Jika array satu dimensi hanya terdiri dari sebuah baris dengan beberapa kolom elemen maka array dua dimensi terdiri dari beberapa baris dan beberapa kolom elemen yang bertipe sama. Pendeklarasian array dua dimensi hampir sama dengan pendeklarasian array satu dimensi, kecuali bahwa array dua dimensi terdapat dua jumlah elemen array yang terdapat di dalam kurung siku dan keduanya boleh tidak sama [3].
