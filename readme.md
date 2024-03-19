@@ -72,6 +72,8 @@ int main() {
 
 #### Output
 
+<img width="960" alt="Screenshot 2024-03-19 090419" src="https://github.com/Ikawida/TUGAS-2-MODUL-ARRAY-PRAKTIKUM-ALGORITMA-DAN-STRUKTUR-DATA-/assets/157208863/6ead5662-6b78-41e3-9931-decfb6aae9db">
+
 ### 3. Array Multidimensi
 
 Array multidimensi memiliki kesamaan dengan array satu dimensi dan dua dimensi, namun memiliki kapasitas memori yang lebih besar. Array ini digunakan untuk merepresentasikan array dengan dimensi lebih dari dua atau array yang memiliki lebih dari dua indeks, seperti array tiga dimensi, array empat dimensi, array lima dimensi, dan seterusnya.
@@ -101,6 +103,8 @@ int main() {
 ```
 
 #### Output
+
+<img width="960" alt="Screenshot 2024-03-19 090524" src="https://github.com/Ikawida/TUGAS-2-MODUL-ARRAY-PRAKTIKUM-ALGORITMA-DAN-STRUKTUR-DATA-/assets/157208863/7bb22710-6f16-4cbe-84c1-130896c358e0">
 
 ### 4. Array 4 Dimensi
 
@@ -177,6 +181,10 @@ z << "] = ";
 
 #### Output
 
+<img width="960" alt="Screenshot 2024-03-19 090744" src="https://github.com/Ikawida/TUGAS-2-MODUL-ARRAY-PRAKTIKUM-ALGORITMA-DAN-STRUKTUR-DATA-/assets/157208863/41f4b5a6-b127-4032-892b-4ad5c06d8371">
+
+<img width="960" alt="Screenshot 2024-03-19 091345" src="https://github.com/Ikawida/TUGAS-2-MODUL-ARRAY-PRAKTIKUM-ALGORITMA-DAN-STRUKTUR-DATA-/assets/157208863/7e456be8-7bce-4645-a7d9-231ef1da85bf">
+
 #### Interpretasi
 
 Program ini memungkinkan pengguna untuk memasukkan data ke dalam array tiga dimensi dan kemudian menampilkannya kembali dengan cara yang terstruktur dan terorganisir. Berikut adalah penjelasan setiap bagian dari kode program tersebut:
@@ -226,6 +234,8 @@ int main()
 ```
 
 #### Output
+
+<img width="960" alt="Screenshot 2024-03-19 090925" src="https://github.com/Ikawida/TUGAS-2-MODUL-ARRAY-PRAKTIKUM-ALGORITMA-DAN-STRUKTUR-DATA-/assets/157208863/51a93c2a-6165-423b-8d74-5f0342a5ea45">
 
 #### Interpretasi
 
@@ -314,6 +324,8 @@ int main() {
 
 #### Output
 
+<img width="960" alt="Screenshot 2024-03-19 091117" src="https://github.com/Ikawida/TUGAS-2-MODUL-ARRAY-PRAKTIKUM-ALGORITMA-DAN-STRUKTUR-DATA-/assets/157208863/7c214fa8-0498-4ccc-95e7-d46c3bbdb5f3">
+
 #### Interpretasi 
 
 Kode program di atas digunakan untuk meminta pengguna memasukkan data array, setelah itu program akan memisahkan angka-angka tersebut menjadi dua kelompok: angka genap dan angka ganjil. Kemudian, program akan menampilkan kembali data array yang dimasukkan oleh pengguna, diikuti dengan daftar angka genap dan angka ganjil yang dipisahkan dari data array tersebut.
@@ -395,6 +407,10 @@ int main() {
 ```
 
 #### Output
+
+<img width="960" alt="Screenshot 2024-03-19 091324" src="https://github.com/Ikawida/TUGAS-2-MODUL-ARRAY-PRAKTIKUM-ALGORITMA-DAN-STRUKTUR-DATA-/assets/157208863/e5a52818-9bc3-4fad-9b9f-7dcaa62fe979">
+
+<img width="960" alt="Screenshot 2024-03-19 091345" src="https://github.com/Ikawida/TUGAS-2-MODUL-ARRAY-PRAKTIKUM-ALGORITMA-DAN-STRUKTUR-DATA-/assets/157208863/1b93833a-e114-4ea3-b38f-0c75bf56e35f">
 
 #### Interpretasi
 
@@ -481,6 +497,8 @@ int main() {
 
 #### Output 
 
+<img width="960" alt="Screenshot 2024-03-19 091608" src="https://github.com/Ikawida/TUGAS-2-MODUL-ARRAY-PRAKTIKUM-ALGORITMA-DAN-STRUKTUR-DATA-/assets/157208863/2ff24099-c2ad-491f-8e94-e0b09531e03f">
+
 #### Interpretasi
 
 Program tersebut berfungsi untuk memungkinkan pengguna untuk:
@@ -520,5 +538,5 @@ Berikut adalah penjelasan setiap bagian dari kode program yang digunakan:
 
 [2] Thompson Susabda Ngoen, "Pengantar Algoritma dengan Bahasa C," Salemba Teknika, Jakarta, 2020.
 
-[3] Deitel, H. M. and Deitel, P. J., "C: How to Program," 3rd ed. Prentice Hall, New Jersey, 2021.
+[3] Deitel and Deitel, "C: How to Program," 3rd ed. Prentice Hall, New Jersey, 2021.
 
