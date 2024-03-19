@@ -534,9 +534,9 @@ Berikut adalah penjelasan setiap bagian dari kode program yang digunakan:
 
 ## Daftar Pustaka
 
-[1] FIRLIANA, RINA and KASIH, PATMI, "Algoritma dan Pemrograman C++," Adjie Media Nusantara, Nganjuk, 2020.
+[1] Firliana Rina dan Patmi Kasih, "Algoritma dan Pemrograman C++," Adjie Media Nusantara, Nganjuk, 2020, pp. 1-82.
 
 [2] Thompson Susabda Ngoen, "Pengantar Algoritma dengan Bahasa C," Salemba Teknika, Jakarta, 2020.
 
-[3] Deitel and Deitel, "C: How to Program," 3rd ed. Prentice Hall, New Jersey, 2021.
+[3] Deitel, "C: How to Program," 3rd ed. Prentice Hall, New Jersey, 2021.
 
