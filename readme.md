@@ -540,7 +540,7 @@ Yaitu kumpulan elemen-elemen identik yang tersusun dalam satu baris.
 -  array 2 dimensi 
 Digambarkan sebagai sebuah matrik dan merupakan perluasan dari sebuah array satu dimensi.
 - array multidimensi
-Merupakan array yang mempunyai ukuran lebih dari dua.  
+Merupakan array yang mempunyai ukuran lebih dari dua.
 Setiap elemen dalam array dapat diakses menggunakan indeks numerik. Indeks dimulai dari 0 (nol) untuk elemen pertama, dan berlanjut hingga n-1, di mana n adalah ukuran array. Dengan indeks ini, kita dapat dengan mudah mengakses atau memanipulasi nilai dalam array.
 Array digunakan dalam berbagai konteks pemrograman, termasuk pemrosesan data, pengaturan data, grafika komputer, dan banyak lagi. Mereka adalah alat yang sangat fleksibel dan sering kali menjadi dasar untuk struktur data yang lebih kompleks. Array juga sering digunakan dalam implementasi algoritma untuk memfasilitasi penyimpanan dan manipulasi data. Misalnya, dalam algoritma pencarian atau pengurutan, array digunakan untuk menyimpan kumpulan data yang akan diproses.
 
